@@ -1,0 +1,5 @@
+Pour se connecter sur bandit0, j'ai utilisé cmd et se connecter sur ssh :
+        ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+
+Le mot de passe pour bandit0 c'est : bandit0
