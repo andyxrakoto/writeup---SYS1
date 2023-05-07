@@ -2,7 +2,7 @@ Pour se connecter à bandit4, il faut executer:
 
     ssh bandit4@bandit.labs.overthewire.org -p 2220
 
-Le dossier qui contient le mot de passe de bandit est nommé " ", donc on éxécute dans bandit3 la commande
-: 'cat ~/' pour avoir le mdp.
+Le fichier qui contient le mot de passe de bandit est caché dans le repertoire "inhere", donc on éxécute dans bandit3 les commandes
+: 'cd ~/inhere' puis 'ls -a' puis 'cat ~/inhere/.hidden' pour avoir le mdp.
 
-Le mot de passe de bandit4 est : 
+Le mot de passe de bandit4 est : 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
