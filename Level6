@@ -1,8 +1,0 @@
-Pour se connecter à bandit6, il faut executer:
-
-    ssh bandit6@bandit.labs.overthewire.org -p 2220
-
-Le dossier qui contient le mot de passe de bandit est nommé "", donc on éxécute dans bandit5 la commande
-: '' pour avoir le mdp.
-
-Le mot de passe de bandit6 est : 
