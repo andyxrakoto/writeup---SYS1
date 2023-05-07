@@ -1,0 +1,8 @@
+Pour se connecter à bandit1, il faut executer:
+
+    ssh bandit1@bandit.labs.overthewire.org -p 2220
+    
+Le dossier qui contient le mot de passe de bandit est nommé "readme", donc on éxécute dans bandit0 la commande
+: 'at ~/readme'pour l'afficher
+
+Le mot de passe de bandit1 est : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
