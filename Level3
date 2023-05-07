@@ -1,0 +1,8 @@
+Pour se connecter à bandit3, il faut executer:
+
+    ssh bandit3@bandit.labs.overthewire.org -p 2220
+
+Le dossier qui contient le mot de passe de bandit est nommé " spaces in this filename  ", donc on éxécute dans bandit2 la commande
+: 'cat ~/spaces\ in\ this\ filename' pour avoir le mdp.
+
+Le mot de passe de bandit3 est : aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
