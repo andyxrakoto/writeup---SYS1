@@ -1,0 +1,8 @@
+Pour se connecter à bandit2, il faut executer:
+
+    ssh bandit2@bandit.labs.overthewire.org -p 2220
+    
+Le dossier qui contient le mot de passe de bandit est nommé " - ", donc on éxécute dans bandit1 la commande
+: 'cat ~/-' pour avoir le mdp.
+
+Le mot de passe de bandit2 est : rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
