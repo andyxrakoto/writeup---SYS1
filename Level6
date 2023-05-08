@@ -1,0 +1,7 @@
+les commandes à suivre sont les suivantes:
+
+'cd ~/inhere'; puis 'find -size 1033c ! -executable' et après il affiche le fichier qui contient le mdp
+
+puis 'cat (nom de fichier qui apparait)'
+
+le mdp de bandit6 est : P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
